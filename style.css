@@ -1,5 +1,66 @@
 h1{
-    font-size: 200px;
-    color: blanchedalmond;
+    font-size: 100px;
+    color: lightskyblue;
     text-align: center;
+}
+#El{
+    float: left;
+}
+.Elon{
+    width: calc(80%);
+    background-color: rgb(100, 138, 170);
+    height: 300px;
+}
+p{
+    font-size: 30px;
+    margin: 0;
+}
+html{
+    background-color: cornflowerblue;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 400px;
+}
+#El2{
+    float: right;
+    height: 350px;
+}
+.imp{
+    height: 350px;
+    background-color: rgb(100, 138, 170) ;
+}
+h2{
+    font-size: 40px;
+}
+.lists ul{
+    font-size: 30px;
+}
+.some{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: 200px;
+}
+.lists{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#laster{
+    width: calc(80%);
+    
+}
+.last{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.imga{
+    float: right;
+    height: 200px;
+    border-radius: 50%
 }
